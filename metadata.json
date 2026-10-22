@@ -1,0 +1,6 @@
+{
+  "name": "App Locker",
+  "description": "Password protect any app on your device with stealth disguise and fake crash covers to make apps disappear from intruders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
